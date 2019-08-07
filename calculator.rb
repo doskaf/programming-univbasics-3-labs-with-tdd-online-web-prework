@@ -1,1 +1,2 @@
-first_number = 1.0
+first_number = 1
+second_number = 2
